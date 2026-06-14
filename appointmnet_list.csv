@@ -1,0 +1,43 @@
+doctor_id,doctor_name,patient_id,patient_name,appointment_date,visit_reason
+DOC-101,Dr. Jonathan Reyes,ORTHO-90812,Robert Chen,2026-06-15 09:00:00,"Review Knee X-ray, discuss Total Knee Arthroplasty (TKA)"
+DOC-101,Dr. Jonathan Reyes,ORTHO-10001,Liam Miller,2026-06-15 10:00:00,Left ankle sprain evaluation
+DOC-101,Dr. Jonathan Reyes,ORTHO-10002,Emma Davis,2026-06-15 11:00:00,Dorsal wrist ganglion cyst consultation
+DOC-101,Dr. Jonathan Reyes,ORTHO-10003,Noah Wilson,2026-06-15 12:00:00,Post-op cast removal
+DOC-102,Dr. Sarah Al-Hassan,NEURO-44312,Elena Rostova,2026-06-15 09:00:00,"Discuss Brain MRI results, review migraine medication overuse"
+DOC-102,Dr. Sarah Al-Hassan,NEURO-20001,Olivia Martinez,2026-06-15 10:00:00,Tension headache management
+DOC-102,Dr. Sarah Al-Hassan,NEURO-20002,William Anderson,2026-06-15 11:00:00,Diabetic neuropathy progression check
+DOC-102,Dr. Sarah Al-Hassan,NEURO-20003,Sophia Taylor,2026-06-15 12:00:00,Concussion follow-up
+DOC-103,Dr. David Lin,RESP-22901,Marcus Vance,2026-06-15 09:00:00,"Review Spirometry, discuss COPD GOLD Stage II diagnosis"
+DOC-103,Dr. David Lin,RESP-30001,James Thomas,2026-06-15 10:00:00,Allergic rhinitis flare-up
+DOC-103,Dr. David Lin,RESP-30002,Isabella Jackson,2026-06-15 11:00:00,Asthma inhaler refill
+DOC-103,Dr. David Lin,RESP-30003,Benjamin White,2026-06-15 12:00:00,Persistent post-viral cough
+DOC-104,Dr. Emily Thorne,CARD-77145,Sarah Jenkins,2026-06-15 09:00:00,"Review 14-Day Holter results, initiate Anticoagulation for AFib"
+DOC-104,Dr. Emily Thorne,CARD-40001,Lucas Harris,2026-06-15 10:00:00,Hypertension medication adjustment
+DOC-104,Dr. Emily Thorne,CARD-40002,Mia Martin,2026-06-15 11:00:00,Hyperlipidemia lab review
+DOC-104,Dr. Emily Thorne,CARD-40003,Ethan Thompson,2026-06-15 12:00:00,Sinus tachycardia evaluation
+DOC-105,Dr. Alan Grant,ENDO-50001,Harper Garcia,2026-06-15 09:00:00,HbA1c check and Metformin refill
+DOC-105,Dr. Alan Grant,ENDO-50002,Mason Martinez,2026-06-15 10:00:00,Fasting hyperglycemia assessment
+DOC-105,Dr. Alan Grant,ENDO-50003,Evelyn Robinson,2026-06-15 11:00:00,Initiate SGLT2 inhibitor
+DOC-105,Dr. Alan Grant,ENDO-50004,Logan Clark,2026-06-15 12:00:00,Insulin titration follow-up
+DOC-106,Dr. Alice Smith,GEN-60001,Amelia Hall,2026-06-15 09:00:00,Annual physical exam
+DOC-106,Dr. Alice Smith,GEN-60002,Henry Allen,2026-06-15 10:00:00,"Acute throat pain, swab for Strep"
+DOC-106,Dr. Alice Smith,GEN-60003,Mila Young,2026-06-15 11:00:00,Skin rash evaluation (Contact dermatitis)
+DOC-106,Dr. Alice Smith,GEN-60004,Sebastian King,2026-06-15 12:00:00,Lower back pain from lifting
+DOC-106,Dr. Alice Smith,GEN-60005,Aria Wright,2026-06-15 14:00:00,Pre-employment health clearance
+DOC-106,Dr. Alice Smith,GEN-60006,Jack Scott,2026-06-15 15:00:00,"Gastroenteritis, check for dehydration"
+DOC-105,Dr. Alan Grant,ENDO-50005,Avery Rodriguez,2026-06-16 09:00:00,Weight management and Semaglutide script
+DOC-105,Dr. Alan Grant,ENDO-50006,Alexander Lewis,2026-06-16 10:00:00,Routine Type 2 DM follow-up
+DOC-105,Dr. Alan Grant,ENDO-50007,Charlotte Lee,2026-06-16 11:00:00,Assess peripheral edema side effects
+DOC-105,Dr. Alan Grant,ENDO-50008,Daniel Walker,2026-06-16 12:00:00,Pre-diabetes lifestyle coaching
+DOC-101,Dr. Jonathan Reyes,ORTHO-10002,Emma Davis,2026-06-16 09:00:00,Follow-up: Cyst aspiration procedure
+DOC-101,Dr. Jonathan Reyes,NEW-PT-001,Chloe Brown,2026-06-16 10:00:00,NEW PATIENT: Right shoulder impingement
+DOC-102,Dr. Sarah Al-Hassan,NEURO-44312,Elena Rostova,2026-06-16 09:00:00,Telehealth Follow-up: Tolerance to new migraine meds
+DOC-102,Dr. Sarah Al-Hassan,NEW-PT-002,Leo Torres,2026-06-16 10:00:00,NEW PATIENT: Onset of left-sided tremors
+DOC-106,Dr. Alice Smith,GEN-60002,Henry Allen,2026-06-16 10:00:00,Follow-up: Strep test results and antibiotic check
+DOC-106,Dr. Alice Smith,ENDO-50001,Harper Garcia,2026-06-16 11:00:00,Primary Care Visit: Acute sinus infection
+DOC-106,Dr. Alice Smith,NEW-PT-003,Grace Nguyen,2026-06-16 14:00:00,NEW PATIENT: Routine blood work order
+DOC-103,Dr. David Lin,RESP-22901,Marcus Vance,2026-06-17 09:00:00,Follow-up: Training on correct Tiotropium inhaler usage
+DOC-103,Dr. David Lin,NEW-PT-004,Samuel Kim,2026-06-17 10:00:00,NEW PATIENT: Suspected sleep apnea consult
+DOC-104,Dr. Emily Thorne,CARD-77145,Sarah Jenkins,2026-06-17 09:00:00,Follow-up: Blood clotting lab draw for anticoagulants
+DOC-104,Dr. Emily Thorne,NEW-PT-005,Zoe Patel,2026-06-17 10:00:00,NEW PATIENT: Cardiac clearance for upcoming surgery
+DOC-106,Dr. Alice Smith,NEW-PT-006,Jackson Reed,2026-06-17 09:00:00,NEW PATIENT: Travel medicine consultation (Vaccines)
